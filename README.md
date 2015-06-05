@@ -1,4 +1,4 @@
 # AndroidBaseAdapter
 # 这是一个通用的Adapter
-
+然而写过多遍以后我们发现我们总是重复地在写这些getCount、getItem、getView方法以及ViewHolder，导致了很多重复工作，于是 把这些重复工作抽象起来(以前也有在github上看到这样的通用Adapter实现)便于自己使用，也是自己学习的一个过程。
 
